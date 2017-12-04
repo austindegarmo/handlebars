@@ -1,0 +1,29 @@
+{
+  "name": "handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-handlebars-sections": "^1.0.1",
+    "handlebars": "^4.0.11",
+    "install": "^0.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austindegarmo/handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austindegarmo/handlebars/issues"
+  },
+  "homepage": "https://github.com/austindegarmo/handlebars#readme"
+}
